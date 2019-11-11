@@ -16,5 +16,5 @@ Display.defaultProps = {
   closed: false,
   locked: false,
 };
-
+//shows if it is currently locked or unlocked. closed or open
 export default Display;
