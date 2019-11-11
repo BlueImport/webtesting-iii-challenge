@@ -14,5 +14,5 @@ const Controls = props => {
     </div>
   );
 };
-
+//shows if gate is open or closed depending on lock status
 export default Controls;
